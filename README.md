@@ -1,1 +1,2 @@
-This is a project to create scripts
+#!/bin/bash
+This contains executable scripts
