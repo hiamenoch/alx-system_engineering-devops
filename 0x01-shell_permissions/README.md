@@ -7,3 +7,4 @@
 5-execute adds execute permission to user
 6-multiple_permissions adds execute right to user & group while giving read permission to others
 7-everybody gives execute permission to all
+8-James_bond removes all permission for both user and group, giving all permission to others
