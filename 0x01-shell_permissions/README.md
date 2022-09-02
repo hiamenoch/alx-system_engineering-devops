@@ -13,3 +13,5 @@
 11-directories_permission adds execute to subdirectories for all
 12-directory_permisions creates a directory my_dir with permission 751
 13-change_group changes hello file to school group
+100-change_owner&group changes the user and group
+
