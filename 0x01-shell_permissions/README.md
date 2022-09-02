@@ -5,3 +5,4 @@
 3-new_ower for changing owner of file
 4-empty creates new empty file hello
 5-execute adds execute permission to user
+6-multiple_permissions adds execute right to user & group while giving read permission to others
