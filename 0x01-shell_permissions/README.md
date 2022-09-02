@@ -10,3 +10,4 @@
 8-James_bond removes all permission for both user and group, giving all permission to others
 9-John_Doe gives the 753 permission
 10-mirror_permissions mirrors olleh permission to hello
+11-directories_permission adds execute to subdirectories for all
