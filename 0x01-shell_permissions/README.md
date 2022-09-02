@@ -11,3 +11,4 @@
 9-John_Doe gives the 753 permission
 10-mirror_permissions mirrors olleh permission to hello
 11-directories_permission adds execute to subdirectories for all
+12-directory_permisions creates a directory my_dir with permission 751
